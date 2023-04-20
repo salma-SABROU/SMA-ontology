@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jade">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tp-ontology/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../XMLCodec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RDFCodec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jadeSecurity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

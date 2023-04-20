@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RDFCodec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RDFCodec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../XMLCodec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jadeSecurity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
